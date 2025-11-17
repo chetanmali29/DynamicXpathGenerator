@@ -1,0 +1,13 @@
+ashot-1.5.4.jar
+chromedriver.exe
+commons-io-2.13.0.jar
+commons-text-1.11.0.jar
+fuzzywuzzy-1.3.1.jar
+jackson-annotations-2.15.2.jar
+ackson-core-2.15.2.jar
+jackson-databind-2.15.2.jar
+jline-3.21.0.jar
+json-20250107.jar
+json-simple-1.1.1.jar
+selenium-json-4.29.0.jar
+selenium-server-4.29.0.jar
